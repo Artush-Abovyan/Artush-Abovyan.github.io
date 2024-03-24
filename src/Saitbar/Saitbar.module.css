@@ -1,0 +1,10 @@
+.myimages{
+    width: 400px;
+    grid-area: n;
+    background-color: rgb(142, 142, 237);
+    border: 1px solid rgb(0, 0, 0);
+}
+.linkedine{
+    width: 40px;
+    height: 40px;
+}
